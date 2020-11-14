@@ -40,8 +40,4 @@ Kullanıcının girdiği iki sayı arasında ki sayıların toplamını bulup ek
 Sonsuz döngüde bir menü oluştur ve kullanıcıdan aldığı girdiye göre 4 işlemi gerçekleştirsin.
 ### work-1
 Kullanıcının girdiği ürün fiyatı ve ücret hesabını alıp para üstünü banknotlara ayırıp banknot adet sayısını söyleyen bir yazarkasa hazırla.
-### work-1
-Kullanıcınıdan bir uzunluk girdisi al ve bu uzunluk girdisiyle rastgele bir şifre üret.
-### work-1
-Kullanıcının girdiği veriyi şifrele ve şifrelenmiş veriyi deşifre et. 
 
