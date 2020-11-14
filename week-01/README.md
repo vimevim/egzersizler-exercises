@@ -36,8 +36,8 @@ Kenarları girilen dikdörtgenin kenar ve çevresini bulup yazdır.
 Girilen string değişkenin harflerini alt alta yazdır.
 ### work-18
 Kullanıcının girdiği iki sayı arasında ki sayıların toplamını bulup ekrana yazdır.
-### work-1
+### work-
 Sonsuz döngüde bir menü oluştur ve kullanıcıdan aldığı girdiye göre 4 işlemi gerçekleştirsin.
-### work-1
+### work-
 Kullanıcının girdiği ürün fiyatı ve ücret hesabını alıp para üstünü banknotlara ayırıp banknot adet sayısını söyleyen bir yazarkasa hazırla.
 
