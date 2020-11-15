@@ -1,43 +1,60 @@
 week - 01
 =======
-### work-01
+### work-01-temel
 Ekrana "Hello World!" yazdır.
-### work-02
+### work-02-temel
+İki sayısal değişken ata, bu değişkenleri topla ve ekrana yazdır.
+### work-03-temel
 Kullanıcıdan bir girdi al ve bu girdiyi ekrana yazdır.
-### work-03
-Girilen iki sayıyı topla ve ekrana yazdır.
-### work-04
-Girilen üç sayının ortalamasını bulup ekrana yazdır.
-### work-05
-Girilen sınav bilgisine göre ekrana "geçti" yada "kaldı" yazdır.
-### work-06
-Girilen sayının tek mi çift mi olduğunu bul ve ekrana yazdır.
-### work-07
-Girilen sayının pozitif mi, negatif mi, nötr mü olduğunu bulup ekrana yazdır.
-### work-08
-Kullanıcıdan yaş girdisi al ve kullanıcıya koşullu ifade kullanarak reşit olup olmadığını yazdır.
-### work-08
-Kullanıcıdan boy ve kilo bilgisi al ve vücut kitle indeksini hesaplayıp, zayıf, kilolu ve normal bilgilerini yazdır.
-### work-10
-Kullanıcıdan bir girdi al ve bu girdiyi bir döngü aracılığıyla ekrana 10 defa yazdır.
-### work-11
-1'den 100'e kadar olan tüm sayıları ekrana yazdır.
-### work-12
-1'den 100'e kadar olan tüm çift sayıları ekrana yazdır.
-### work-13
-1'den 100'e kadar olan tüm tek sayıları ekrana yazdır.
-### work-14
-1-100 arası tüm sayılardan 3'e tam bölünenlere Fizz, 5'e tam bölünenlere Buzz 15'e tam bölünenlere ise FizzBuzz yazdır.
-### work-15
-1'den kullanıcının girdiği sayıya kadar olan tek sayıları yazdır.
-### work-16
+### work-04-temel
+Kullanıcıdan iki girdi alıp iki girdiyi topla ve ekrana yazdır.
+### work-05-temel
+Kullanıcıdan iki girdi alıp iki girdinin ortalamasını bul ve ekrana yazdır.
+### work-06-temel
+Kullanıcıdan iki girdi alıp iki farklı değişkene ata, sonra bu değişkenlerin değerlerini birbiriyle değiştirip ekrana yazdır.
+### work-07-temel
 Kenarları girilen dikdörtgenin kenar ve çevresini bulup yazdır.
-### work-17
-Girilen string değişkenin harflerini alt alta yazdır.
-### work-18
-Kullanıcının girdiği iki sayı arasında ki sayıların toplamını bulup ekrana yazdır.
-### work-
-Sonsuz döngüde bir menü oluştur ve kullanıcıdan aldığı girdiye göre 4 işlemi gerçekleştirsin.
-### work-
+### work-08-temel-hard
 Kullanıcının girdiği ürün fiyatı ve ücret hesabını alıp para üstünü banknotlara ayırıp banknot adet sayısını söyleyen bir yazarkasa hazırla.
-
+### work-09-koşul
+Kullanıcıdan iki girdi alıp iki girdinin ortalamasını bul ve sonuca göre ekrana "geçti" yada "kaldı" yazdır.
+### work-10-koşul
+Girilen sayının tek mi çift mi olduğunu bul ve ekrana yazdır.
+### work-11-koşul
+Girilen sayının pozitif mi, negatif mi, nötr mü olduğunu bulup ekrana yazdır.
+### work-11-koşul
+Kullanıcıdan yaş girdisi al ve kullanıcıya koşullu ifade kullanarak reşit olup olmadığını yazdır.
+### work-12-koşul
+Kullanıcıdan boy-kilo bilgisi al ve vücut kitle indeksini hesaplayıp, zayıf, kilolu ve normal bilgilerini yazdır.
+### work-13-döngü
+Kullanıcıdan bir girdi al ve bu girdiyi bir döngü aracılığıyla ekrana 10 defa yazdır.
+### work-14-döngü
+1'den 100'e kadar olan tüm sayıları ekrana yazdır.
+### work-15-döngü
+1'den 100'e kadar olan tüm çift sayıları ekrana yazdır.
+### work-16-döngü
+1'den 100'e kadar olan tüm çift sayıları ekrana yazdır ve en sonunda tüm bu sayıların toplamını ekrana yazdır.
+### work-17-döngü
+1'den 100'e kadar olan tüm tek sayıları ekrana yazdır.
+### work-18-döngü
+1'den 100'e kadar olan tüm tek sayıları ekrana yazdır ve en sonunda tüm bu sayıların toplamını ekrana yazdır.
+### work-19-döngü-mülakat sorusu
+1-100 arası tüm sayılardan 3'e tam bölünenlere Fizz, 5'e tam bölünenlere Buzz 15'e tam bölünenlere ise FizzBuzz yazdır.
+### work-20-döngü
+1'den kullanıcının girdiği sayıya kadar olan tek sayıları yazdır.
+### work-21-döngü
+Kullanıcıdan bir sayı al ve bu sayının faktörünü alıp ekrana yazdır.
+### work-21-döngü
+Kullanıcıdan başlangıç, bitiş ve adım olmak üzere üç değer al ve aralıkta ki çıkan sayıların toplamını ekrana yazdır;
+### work-22-döngü
+Girilen string değişkenin harflerini alt alta yazdır.
+### work-23-döngü
+Kullanıcının girdiği iki sayı arasında ki sayıların toplamını bulup ekrana yazdır.
+### work-24-döngü
+Sonsuz döngüde bir menü oluştur ve kullanıcıdan aldığı girdiye göre 4 işlemi gerçekleştirsin.
+### work-25-döngü-koşul
+Bilgisayar rastgele bir sayı tutsun, kullanıcı bir rakam girsin, girilen rakam rastgele rakamdan küçükse kullanıcıya "arttır" büyükse "azalt" eşitse "buldun" çıktılarını versin.
+### work-27-fonksiyon
+Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
+### work-28-fonksiyon
+10 elemanlı rastgele oluşturulan bir dizideki en büyük ve en küçük sayıyı bul ve ekrana yazdır.
