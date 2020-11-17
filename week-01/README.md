@@ -91,4 +91,7 @@ Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değ
 Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
 ### work42-fonksiyon
 10 elemanlı rastgele oluşturulan bir dizideki en büyük ve en küçük sayıyı bul ve ekrana yazdır.
-### work43-
+### work43-temel-fonksiyon
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin karakter uzunluğunu bulun.
+### work44-temel-fonksiyon
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkeni boşluktna ikiye bölün. Ortaya çıkan iki değişkenin karakterlerinden birini büyük harf diğerini de küçük harf yapın.
