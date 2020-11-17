@@ -101,3 +101,5 @@ Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu
 "Meşhyba Dünyb!" şeklinde bir string değişken atayın ve bu değişkenin içinde ki yanlış karakterleri kod ile düzeltip ekrana yazdırınız.
 ### work47-temel-metodlar
 " Merhaba Dünya! " şpeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
+### work48-temel-metodlar
+Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki değişkenin alabileceği metodların listesini incele. 
