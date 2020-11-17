@@ -102,3 +102,7 @@ Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu
 " Merhaba Dünya! " şpeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
 ### work50-temel-metodlar
 Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki değişkenin alabileceği metodların listesini incele. 
+### work51-temel-metodlar
+Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştırın, çıkan argüman listesini inceleyin.
+### work52-temel-metodlar
+"Johny" ve "Bravo" şeklinde iki değişken oluşturunuz ve bunları virgül ile toplayınız, sonra sep="" argümanını kullanarak ayırıcı boşluğu "-" ile değiştiriniz.
