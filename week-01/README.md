@@ -95,3 +95,5 @@ Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu
 "Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin karakter uzunluğunu bulun.
 ### work44-temel-metodlar
 "Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkeni boşluktna ikiye bölün. Ortaya çıkan iki değişkenin karakterlerinden birini büyük harf diğerini de küçük harf yapın.
+### work45-temel-metodlar
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin küçük harfmi büyük harfmi olduğunu kontrul edip büyükse büyük küçükse küçük yazdırın.
