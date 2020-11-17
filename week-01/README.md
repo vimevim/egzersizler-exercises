@@ -87,11 +87,11 @@ Değerleri [1,9,9,9] olan listeyi index kullanarak [1,9,9,9] olarak değiştirin
 Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değerleri ekrana yazdır.
 ### work40-listeler
 1'den 10'a kadar sayıların olduğu ve 10'dan 20'ye kadar olan sayıların olduğu iki liste tanımlayınız. Bu listeleri birleştirip listelerin içinde ki tek ve çift sayıları ve bu sayıların toplamını ayrı ayrı ekrana yazdırınız.
-### work41-fonksiyon
+### work41-temel-metodlar
 Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
-### work42-fonksiyon
+### work42-random-metod
 10 elemanlı rastgele oluşturulan bir dizideki en büyük ve en küçük sayıyı bul ve ekrana yazdır.
-### work43-temel-fonksiyon
+### work43-temel-metodlar
 "Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin karakter uzunluğunu bulun.
-### work44-temel-fonksiyon
+### work44-temel-metodlar
 "Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkeni boşluktna ikiye bölün. Ortaya çıkan iki değişkenin karakterlerinden birini büyük harf diğerini de küçük harf yapın.
