@@ -82,6 +82,18 @@ Kullanıcının girdiği metin içerisinde ki sesli karakter sayısını toplay�
 1'den 10'a kadar olan sayıların bulunduğu bir liste tanımlayın ve listenin 6. indexini ekrana yazdırın.
 ### work40-listeler
 Değerleri [1,9,9,9] olan listeyi index kullanarak [2,0,0,1] olarak değiştiriniz.
+### work40-listeler
+Değerleri [1,9,9,9] olan listeyi ters çeviriniz.
+### work40-listeler
+Değerleri [1,9,9,9] olan listenin içini boşaltınız.
+### work40-listeler
+Değerleri [1,9,9,9] olan listenin son değerini kaldırınız.
+### work40-listeler
+Değerleri ["ali","veli","mehmet","mahmut"] olan listenin içinde ki "veli" değerinin indexini bulunuz.
+### work40-listeler
+Değerleri ["ali","veli","mehmet","mahmut"] olan listenin içinde ki "veli" değerini listeden siliniz.
+### work40-listeler
+Değerleri ["ali","veli","mehmet","mahmut","melisa","kürşat","kaan","han","ayşe","fatma","doğa"] olan listenin değerlerini "melisa" değerinden "fatma" değerine kadar yazdırın.
 ### work41-listeler
 Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değerleri ekrana yazdır.
 ### work42-listeler
