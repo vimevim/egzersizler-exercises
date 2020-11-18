@@ -104,43 +104,43 @@ Değerleri ["ali","veli","mehmet","mahmut","melisa","kürşat","kaan","han","ay�
 Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değerleri ekrana yazdır.
 ### work52-listeler
 1'den 10'a kadar sayıların olduğu ve 10'dan 20'ye kadar olan sayıların olduğu iki liste tanımlayınız. Bu listeleri birleştirip listelerin içinde ki tek ve çift sayıları ve bu sayıların toplamını ayrı ayrı ekrana yazdırınız.
-### work52-listeler
+### work53-listeler
 [1,9,9,9,2,0,0,1] şeklinde bir liste oluşturunuz ve bu listenin içinde ki 9 değerinin kaç tane olduğu bilgisini ekrana yazdırınız.
-### work53-sözlükler
+### work54-sözlükler
 1'den 10'a kadar olan rakamları key yapın ve rakamların sözlü karşılıklarını value olarak atayıp sözlük oluşturun.
-### work54-kümeler
-[1,9,9,9] şeklinde bir liste oluşturun ve kullanıcı bu listeye istediği rakamları girebilsin, bunun ardından bu listenin içinde ki tekrar eden rakamları yok edin.
 ### work55-kümeler
-[1,2,3,4,5,6,7,8,9,0] şeklinde bir küme oluşturun, bu küme içerisinde önce 1 sonra 2 sonra 1 değerini programın akışını bozmadan sırayla silin. 
+[1,9,9,9] şeklinde bir liste oluşturun ve kullanıcı bu listeye istediği rakamları girebilsin, bunun ardından bu listenin içinde ki tekrar eden rakamları yok edin.
 ### work56-kümeler
-[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin farkklı değerlerini bulun.
+[1,2,3,4,5,6,7,8,9,0] şeklinde bir küme oluşturun, bu küme içerisinde önce 1 sonra 2 sonra 1 değerini programın akışını bozmadan sırayla silin. 
 ### work57-kümeler
-[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin kesişimlerini bulun.
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin farkklı değerlerini bulun.
 ### work58-kümeler
-[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin bileşimlerini bulun.
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin kesişimlerini bulun.
 ### work59-kümeler
-[1,2,3,4], [3,4,5,6] ve [8,9,0] şeklinde üç  küme oluşturun önce ilk iki kümenin kesişimini kontrol edin ve kesişimi varsa "kesişim var" yazdırın sorna da üçüncü küme ile diğer kümelerin kesişimlerini kontrol edin ve kesişim yoksa "kesişim yok" yazdırın.
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin bileşimlerini bulun.
 ### work60-kümeler
-[1,2,3,4,5,6] ve [3,4] şeklinde iki küme oluşturun ve ikinci kümenin birinci kümenin alt kümesi olup olmadığını sorgulayıp bilgilendirme yapınız.
+[1,2,3,4], [3,4,5,6] ve [8,9,0] şeklinde üç  küme oluşturun önce ilk iki kümenin kesişimini kontrol edin ve kesişimi varsa "kesişim var" yazdırın sorna da üçüncü küme ile diğer kümelerin kesişimlerini kontrol edin ve kesişim yoksa "kesişim yok" yazdırın.
 ### work61-kümeler
+[1,2,3,4,5,6] ve [3,4] şeklinde iki küme oluşturun ve ikinci kümenin birinci kümenin alt kümesi olup olmadığını sorgulayıp bilgilendirme yapınız.
+### work62-kümeler
 [1,2,3,4,5,6] ve [3,4] şeklinde iki küme oluşturun ve birinci küme ikinci kümeyi kapsıyor mu sorgusunu yapıp bilgilendirme yapınız.
-### work60-temel-metodlar
-Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
-### work61-random-metod
-10 elemanlı rastgele oluşturulan bir dizideki en büyük ve en küçük sayıyı bul ve ekrana yazdır.
-### work62-temel-metodlar
-"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin karakter uzunluğunu bulun.
 ### work63-temel-metodlar
-"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkeni boşluktna ikiye bölün. Ortaya çıkan iki değişkenin karakterlerinden birini büyük harf diğerini de küçük harf yapın.
-### work64-temel-metodlar
-"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin küçük harfmi büyük harfmi olduğunu kontrul edip büyükse büyük küçükse küçük yazdırın.
+Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
+### work64-random-metod
+10 elemanlı rastgele oluşturulan bir dizideki en büyük ve en küçük sayıyı bul ve ekrana yazdır.
 ### work65-temel-metodlar
-"Meşhyba Dünyb!" şeklinde bir string değişken atayın ve bu değişkenin içinde ki yanlış karakterleri kod ile düzeltip ekrana yazdırınız.
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin karakter uzunluğunu bulun.
 ### work66-temel-metodlar
-" Merhaba Dünya! " şpeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkeni boşluktna ikiye bölün. Ortaya çıkan iki değişkenin karakterlerinden birini büyük harf diğerini de küçük harf yapın.
 ### work67-temel-metodlar
-Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki değişkenin alabileceği metodların listesini incele. 
+"Merhaba dünya!" şeklinde bir string değişken atayın ve bu değişkenin küçük harfmi büyük harfmi olduğunu kontrul edip büyükse büyük küçükse küçük yazdırın.
 ### work68-temel-metodlar
-Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştırın, çıkan argüman listesini inceleyin.
+"Meşhyba Dünyb!" şeklinde bir string değişken atayın ve bu değişkenin içinde ki yanlış karakterleri kod ile düzeltip ekrana yazdırınız.
 ### work69-temel-metodlar
+" Merhaba Dünya! " şpeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
+### work70-temel-metodlar
+Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki değişkenin alabileceği metodların listesini incele. 
+### work71-temel-metodlar
+Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştırın, çıkan argüman listesini inceleyin.
+### work72-temel-metodlar
 "Johny" ve "Bravo" şeklinde iki değişken oluşturunuz ve bunları virgül ile toplayınız, sonra sep="" argümanını kullanarak ayırıcı boşluğu "-" ile değiştiriniz.
