@@ -144,3 +144,7 @@ Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki 
 Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştırın, çıkan argüman listesini inceleyin.
 ### work72-temel-metodlar
 "Johny" ve "Bravo" şeklinde iki değişken oluşturunuz ve bunları virgül ile toplayınız, sonra sep="" argümanını kullanarak ayırıcı boşluğu "-" ile değiştiriniz.
+### work73-fonksiyonlar
+kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp ekrana yazdırsın.
+### work74-fonksiyonlar
+kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp bilgi mesajıyla birlikte ekrana yazdırsın.
