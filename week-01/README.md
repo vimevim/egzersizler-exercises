@@ -104,6 +104,8 @@ Değerleri ["ali","veli","mehmet","mahmut","melisa","kürşat","kaan","han","ay�
 Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değerleri ekrana yazdır.
 ### work51-listeler
 1'den 10'a kadar sayıların olduğu ve 10'dan 20'ye kadar olan sayıların olduğu iki liste tanımlayınız. Bu listeleri birleştirip listelerin içinde ki tek ve çift sayıları ve bu sayıların toplamını ayrı ayrı ekrana yazdırınız.
+### work52-sözlükler
+1'den 10'a kadar olan rakamları key yapın ve rakamların sözlü karşılıklarını value olarak atayıp sözlük oluşturun.
 ### work52-temel-metodlar
 Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
 ### work53-random-metod
