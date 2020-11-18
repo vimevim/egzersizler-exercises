@@ -148,3 +148,7 @@ Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştır�
 kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp ekrana yazdırsın.
 ### work74-fonksiyonlar
 kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp bilgi mesajıyla birlikte ekrana yazdırsın.
+### work75-fonksiyonlar
+toplamaIslemi isminde iki argüman almış bir fonksiyon oluşturun ve toplama işlemini yapıp ekrana yazdırın.
+### work76-fonksiyonlar
+ustAl isminde bir fonksiyon oluşturun. Bu fonksiyonun iki argümanı olsun, bunlardan birisi üssü alınacak sayı diğeri ise üs basamağı olsun, eğer kullanıcı üs basamağı yazmazsa fonksiyon girilen sayının doğrudan karesini alsın.
