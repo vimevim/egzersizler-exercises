@@ -104,6 +104,8 @@ Değerleri ["ali","veli","mehmet","mahmut","melisa","kürşat","kaan","han","ay�
 Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değerleri ekrana yazdır.
 ### work52-listeler
 1'den 10'a kadar sayıların olduğu ve 10'dan 20'ye kadar olan sayıların olduğu iki liste tanımlayınız. Bu listeleri birleştirip listelerin içinde ki tek ve çift sayıları ve bu sayıların toplamını ayrı ayrı ekrana yazdırınız.
+### work52-listeler
+[1,9,9,9,2,0,0,1] şeklinde bir liste oluşturunuz ve bu listenin içinde ki 9 değerinin kaç tane olduğu bilgisini ekrana yazdırınız.
 ### work53-sözlükler
 1'den 10'a kadar olan rakamları key yapın ve rakamların sözlü karşılıklarını value olarak atayıp sözlük oluşturun.
 ### work54-kümeler
@@ -118,6 +120,10 @@ Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değ
 [1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin bileşimlerini bulun.
 ### work59-kümeler
 [1,2,3,4], [3,4,5,6] ve [8,9,0] şeklinde üç  küme oluşturun önce ilk iki kümenin kesişimini kontrol edin ve kesişimi varsa "kesişim var" yazdırın sorna da üçüncü küme ile diğer kümelerin kesişimlerini kontrol edin ve kesişim yoksa "kesişim yok" yazdırın.
+### work60-kümeler
+[1,2,3,4,5,6] ve [3,4] şeklinde iki küme oluşturun ve ikinci kümenin birinci kümenin alt kümesi olup olmadığını sorgulayıp bilgilendirme yapınız.
+### work61-kümeler
+[1,2,3,4,5,6] ve [3,4] şeklinde iki küme oluşturun ve birinci küme ikinci kümeyi kapsıyor mu sorgusunu yapıp bilgilendirme yapınız.
 ### work60-temel-metodlar
 Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
 ### work61-random-metod
