@@ -106,6 +106,17 @@ Daha önceden hazırlanmış bir liste içerisinde ki 5 ve 3 ün katı olan değ
 1'den 10'a kadar sayıların olduğu ve 10'dan 20'ye kadar olan sayıların olduğu iki liste tanımlayınız. Bu listeleri birleştirip listelerin içinde ki tek ve çift sayıları ve bu sayıların toplamını ayrı ayrı ekrana yazdırınız.
 ### work52-sözlükler
 1'den 10'a kadar olan rakamları key yapın ve rakamların sözlü karşılıklarını value olarak atayıp sözlük oluşturun.
+### work52-kümeler
+[1,9,9,9] şeklinde bir liste oluşturun ve kullanıcı bu listeye istediği rakamları girebilsin, bunun ardından bu listenin içinde ki tekrar eden rakamları yok edin.
+### work52-kümeler
+[1,2,3,4,5,6,7,8,9,0] şeklinde bir küme oluşturun, bu küme içerisinde önce 1 sonra 2 sonra 1 değerini programın akışını bozmadan sırayla silin. 
+### work54-kümeler
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin farkklı değerlerini bulun.
+### work54-kümeler
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin kesişimlerini bulun.
+### work54-kümeler
+[1,2,3,4] ve [3,4,5,6] şeklinde iki küme oluşturun ve bu kümelerin bileşimlerini bulun.
+### work52-kümeler
 ### work52-temel-metodlar
 Kullanıcıdan aralarına virgül konulmuş şekilde farklı sayıları al ve bu sayıları toplayıp ortalamasını bul ve ekrana yazdır.
 ### work53-random-metod
