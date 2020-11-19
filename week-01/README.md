@@ -149,11 +149,14 @@ Bir fonksiyonun başına soru işareti koyun örneğin "?print" ve çalıştır�
 ### work74-temel-metodlar
 "Johny" ve "Bravo" şeklinde iki değişken oluşturunuz ve bunları virgül ile toplayınız, sonra sep="" argümanını kullanarak ayırıcı boşluğu "-" ile değiştiriniz.
 ### work75-fonksiyonlar
+Kendisine gönderilen değere 10 ekleyip geri gönderen bir fonksiyon oluşturunuz.
+### work77-fonksiyonlar
+KEndisine gönderilen iki argümanı toplayan bir fonksiyon oluşturunuz.
+### work75-fonksiyonlar
 kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp ekrana yazdırsın.
 ### work76-fonksiyonlar
 kareAl isminde bir fonksiyon oluşturun ve bu fonksiyona girilen değerin karesini alıp bilgi mesajıyla birlikte ekrana yazdırsın.
-### work77-fonksiyonlar
-toplamaIslemi isminde iki argüman almış bir fonksiyon oluşturun ve toplama işlemini yapıp ekrana yazdırın.
 ### work78-fonksiyonlar
 ustAl isminde bir fonksiyon oluşturun. Bu fonksiyonun iki argümanı olsun, bunlardan birisi üssü alınacak sayı diğeri ise üs basamağı olsun, eğer kullanıcı üs basamağı yazmazsa fonksiyon girilen sayının doğrudan karesini alsın.
+### work80-lambda
 ### work79-nesne-yonelimli-programlama
