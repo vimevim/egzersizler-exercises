@@ -2,7 +2,7 @@ ornekler-sorular-odevler-projeler
 =======
 > Programlamaya yeni başlayan birisi için hangi dili öğrendiği gözetmeksizin kendini geliştirdikçe o adımlarla ilgili örnekler bulup çözebileceği soruların bulunduğu bir arşiv çalışması. Kısaca kodlama için bir soru bankası.
 * Burada ki örnekleri bitirdikten sonra [codewars.com](https://www.codewars.com/) üzerinden kendinizi geliştirmeye devam edebilirsiniz.
-=======
+---
 ### work01-temel
 Ekrana "Hello World!" yazdırın.
 ### work02-temel
