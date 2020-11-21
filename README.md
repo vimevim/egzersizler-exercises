@@ -10,7 +10,7 @@ Ekrana "Hello World!" yazdırın.
 ### work03-temel
 İki sayısal değişken ata, bu değişkenleri topla ve ekrana yazdırın.
 ### work04-temel
-Kullanıcıdan bir girdi al ve bu girdiyi ekrana yazdırın.
+Kullanıcıdan bir girdi alın ve bu girdiyi ekrana yazdırın.
 ### work05-temel
 Kullanıcıdan iki girdi alın, alınan iki girdinin toplamını bulun ve ekrana yazdırın.
 ### work06-temel
@@ -38,7 +38,7 @@ Biri fiyat bilgisi, biri ücret bilgisi olmak üzere kullanıcıdan iki girdi al
 ### work17-temel-metodlar
 "Meşhyba Dünyb!" şeklinde bir string değişken atayın ve bu değişkenin içinde ki yanlış karakterleri fonksiyon ile düzeltip ekrana yazdırın.
 ### work18-temel-metodlar
-" Merhaba Dünya! " şpeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
+" Merhaba Dünya! " şeklinde bir string değişken atayın ve bu değişkenin başında ki ve sonunda ki boşlukları kaldırıp ekrana yazdırın.
 ### work19-temel-metodlar
 Rastgele türde bir değişken oluştur ve dir(degisken) ifadesiyle o türde ki değişkenin alabileceği metodların listesini incele. 
 ### work20-temel-metodlar
