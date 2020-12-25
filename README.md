@@ -2,6 +2,10 @@ ornekler-sorular-odevler-projeler
 ---
 > Programlamaya yeni başlayan birisi için hangi dili öğrendiği gözetmeksizin kendini geliştirdikçe o adımlarla ilgili örnekler bulup çözebileceği soruların bulunduğu bir arşiv çalışması. Kısaca kodlama için bir soru bankası.
 * Burada ki örnekleri bitirdikten sonra [codewars.com](https://www.codewars.com/) üzerinden kendinizi geliştirmeye devam edebilirsiniz.
+* [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises%20for%20Python%203.md)
+* [numpy-100 ](https://github.com/rougier/numpy-100)
+* [devops-exercises](https://github.com/bregman-arie/devops-exercises#python)
+* [100-plus-Python-programming-exercises-extended](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended)
 ---
 ### work01-temel
 Ekrana "Hello World!" yazdırın.
